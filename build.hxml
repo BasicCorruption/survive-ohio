@@ -3,4 +3,5 @@
 -lib hlopenal
 -lib hlsdl
 -main com.sidgames5.survive_ohioMain
+-D windowSize=1600x900
 -hl bin/SurviveOhio.hl
