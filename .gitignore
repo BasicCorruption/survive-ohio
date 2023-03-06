@@ -1,0 +1,8 @@
+*.exe
+*.lib
+*.hl
+*.jar
+
+**/[Bb]in
+**/[Oo]ut
+**/[Bb]uild
