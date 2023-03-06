@@ -1,0 +1,8 @@
+-cp src
+-lib heaps
+-lib hlopenal
+-lib hlsdl
+-lib hldx
+-cpp bin
+-main com.sidgames5.survive_ohioMain
+-debug
