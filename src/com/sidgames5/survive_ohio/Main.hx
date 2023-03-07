@@ -5,6 +5,6 @@ import openfl.Lib;
 
 class Main extends Sprite {
 	public static function main() {
-		Loader.preInitialize();
+		Loader.preInitialize(SceneMenu);
 	}
 }
